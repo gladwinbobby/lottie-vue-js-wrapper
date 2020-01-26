@@ -1,7 +1,7 @@
 {
   "private": false,
-  "name": "lottie-vuejs",
-  "version": "0.3.6",
+  "name": "lottie-vue-js",
+  "version": "1.0.0",
   "description": "A simple wrapper for integrating lottie-web into VueJs",
   "main": "dist/lottie-animation.umd.js",
   "module": "dist/lottie-animation.esm.js",
@@ -32,7 +32,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/SuperbuffNL/lottie-vuejs.git"
+    "url": "git+https://github.com/gladwinbobby/lottie-vue-js.git"
   },
   "files": [
     "dist/*",
@@ -46,7 +46,7 @@
     "Lottie-web",
     "Bodymovin",
     "Airbnb",
-    "lottie-vuejs",
+    "lottie-vue-js",
     "vue-lottie",
     "lottie",
     "vue",
@@ -58,10 +58,10 @@
     "svg",
     "svg animation"
   ],
-  "author": "Max Ossadtchii",
+  "author": "Gladwin Henald",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/SuperbuffNL/lottie-vuejs/issues"
+    "url": "https://github.com/gladwinbobby/lottie-vue-js/issues"
   },
-  "homepage": "https://github.com/SuperbuffNL/lottie-vuejs#readme"
+  "homepage": "https://github.com/gladwinbobby/lottie-vue-js#readme"
 }
